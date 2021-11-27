@@ -1,2 +1,2 @@
 # Insider Engine
-> A simple game engine.
+> A simple game engine using SDL2.
